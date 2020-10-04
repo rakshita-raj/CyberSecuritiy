@@ -5,9 +5,12 @@ import socket
 connection = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 print("\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%                                                         %%\n%%   #      #      #       #    #    #    #######   #   #  %%\n%%   ##    ##     # #      ##   #    #   #          #   #  %%\n%%   # #  # #    #   #     #  # #    #    ######    #####  %%\n%%   #  ##  #   #######    #   ##    #          #   #   #  %%\n%%   #      #  #       #   #    #    #   #######    #   #  %%\n%%                                                         %%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n")
-
-
-
+#Salutaion to use
+print("Welcome To Port Scanner Engine")
+username=input("Please Enter Your Name:")
+print("Hey,")
+print(username)
+print("\n")
 
 
 
